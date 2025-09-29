@@ -1,5 +1,5 @@
 # 💫 Skills:
-Python<br>Pentester<br>Java<br>Bug Hunter
+PT - CTF
 
 
 # 💻 Tech Stack:
