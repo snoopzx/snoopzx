@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Skills:
 Python<br>Pentester<br>Java<br>Bug Hunter
 
 
